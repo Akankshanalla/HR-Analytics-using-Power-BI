@@ -20,7 +20,9 @@ Steps Overview:
 ________________________________________
 Dashboard Overview:
 The dashboard is divided into two primary pages, each focusing on different aspects of employee data.
+ 
 ![Picture1](https://github.com/user-attachments/assets/2d243aca-904e-44bb-9d09-d19e48c91fbf)
+ 
 ![Picture2](https://github.com/user-attachments/assets/09f6e8e6-30e2-4273-b02a-1fd631a247f0)
 
 ________________________________________
@@ -111,7 +113,7 @@ ________________________________________
 
 Conclusion:
 This HR Analytics Dashboard serves as a critical tool for HR managers, enabling them to:
-•	Identify patterns of employee attrition by department, role, and demographics.
-•	Understand the impact of factors like job satisfaction, income, and business travel on retention.
-•	Develop data-driven strategies to improve employee engagement, retention, and workforce management.
+1.	Identify patterns of employee attrition by department, role, and demographics.
+2.	Understand the impact of factors like job satisfaction, income, and business travel on retention.
+3.	Develop data-driven strategies to improve employee engagement, retention, and workforce management.
 By leveraging the insights provided, HR teams can address key challenges, optimize employee satisfaction, and strengthen organizational performance.
