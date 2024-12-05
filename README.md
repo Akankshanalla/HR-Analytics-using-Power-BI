@@ -20,10 +20,6 @@ Steps Overview:
 ________________________________________
 Dashboard Overview:
 The dashboard is divided into two primary pages, each focusing on different aspects of employee data.
-
-
-
-
 ________________________________________
 
 
@@ -90,7 +86,7 @@ o	Frequent travel is linked to moderate attrition rates, indicating a need for b
 o	High attrition within the first year highlights onboarding or integration issues.
 o	Improved support for new hires may reduce early turnover.
 ________________________________________
-Summary of Findings
+Summary of Findings:
 •	Out of the total 1470 employees, there was an attrition rate of 16.12%, equating to 237 employees who left the company.
 •	The Research & Development department has the highest attrition rate for 56.12% (133 employees) of the total number of employees.
 •	Life Sciences recorded the most attritions among educational fields, with 89 employees.
@@ -101,7 +97,7 @@ Summary of Findings
 •	The Laboratory Technician job role has the highest number of employee attrition compared to other roles.
 ________________________________________
 
-Suggestions
+Suggestions:
 •	Conduct surveys or interviews to understand the specific issues leading to attrition within the Research & Development department. For instance, identify if it's related to workload, leadership, growth opportunities, or other factors causing dissatisfaction.
 •	Develop strategies specifically for Laboratory Technicians such as career development paths, skills training, or mentorship programs tailored to address the unique needs and career aspirations of Laboratory Technicians.
 •	For reduced attrition among employees aged 25-34 or singles, company could provide options like flexible work, career development programs, and initiatives promoting work-life balance.
