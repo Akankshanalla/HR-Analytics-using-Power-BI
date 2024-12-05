@@ -90,21 +90,23 @@ o	High attrition within the first year highlights onboarding or integration issu
 o	Improved support for new hires may reduce early turnover.
 ________________________________________
 Summary of Findings:
-•	Out of the total 1470 employees, there was an attrition rate of 16.12%, equating to 237 employees who left the company.
-•	The Research & Development department has the highest attrition rate for 56.12% (133 employees) of the total number of employees.
-•	Life Sciences recorded the most attritions among educational fields, with 89 employees.
-•	The most significant attrition occurred among male employees aged between 25 to 34 years.
-•	Employees who rarely traveled experienced the most substantial attrition, amounting to 65.82% (156 people) of the total employees.
-•	Single male employees experienced the highest number of attritions.
-•	Employees with shorter tenures at the company displayed a higher attrition rate compared to those with longer tenures.
-•	The Laboratory Technician job role has the highest number of employee attrition compared to other roles.
+1.	By leveraging the insights provided, HR teams can address key challenges, optimize employee satisfaction, and strengthen organizational performance.
+2.	Out of the total 1470 employees, there was an attrition rate of 16.12%, equating to 237 employees who left the company.
+3.	The Research & Development department has the highest attrition rate for 56.12% (133 employees) of the total number of employees.
+4.	Life Sciences recorded the most attritions among educational fields, with 89 employees.
+5.	The most significant attrition occurred among male employees aged between 25 to 34 years.
+6.	Employees who rarely traveled experienced the most substantial attrition, amounting to 65.82% (156 people) of the total employees.
+7.	Single male employees experienced the highest number of attritions.
+8.	Employees with shorter tenures at the company displayed a higher attrition rate compared to those with longer tenures.
+9.	The Laboratory Technician job role has the highest number of employee attrition compared to other roles.
 ________________________________________
 
 Suggestions:
-•	Conduct surveys or interviews to understand the specific issues leading to attrition within the Research & Development department. For instance, identify if it's related to workload, leadership, growth opportunities, or other factors causing dissatisfaction.
-•	Develop strategies specifically for Laboratory Technicians such as career development paths, skills training, or mentorship programs tailored to address the unique needs and career aspirations of Laboratory Technicians.
-•	For reduced attrition among employees aged 25-34 or singles, company could provide options like flexible work, career development programs, and initiatives promoting work-life balance.
-•	The company could provide comprehensive onboarding, mentorship, and regular feedback mechanisms for new employees to acclimate well and feel valued within the company, reducing early attrition.
+1.	Conduct surveys or interviews to understand the specific issues leading to attrition within the Research & Development department. For instance, identify if it's related to workload, leadership, growth opportunities, or other factors causing dissatisfaction.
+2.	Develop strategies specifically for Laboratory Technicians such as career development paths, skills training, or mentorship programs tailored to address the unique needs and career aspirations of Laboratory Technicians.
+3.	For reduced attrition among employees aged 25-34 or singles, company could provide options like flexible work, career development programs, and initiatives promoting work-life balance.
+4.	The company could provide comprehensive onboarding, mentorship, and regular feedback mechanisms for new employees to acclimate well and feel valued within the company, reducing early attrition.
+
 ________________________________________
 
 Conclusion:
