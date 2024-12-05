@@ -20,6 +20,9 @@ Steps Overview:
 ________________________________________
 Dashboard Overview:
 The dashboard is divided into two primary pages, each focusing on different aspects of employee data.
+![Picture1](https://github.com/user-attachments/assets/2d243aca-904e-44bb-9d09-d19e48c91fbf)
+![Picture2](https://github.com/user-attachments/assets/09f6e8e6-30e2-4273-b02a-1fd631a247f0)
+
 ________________________________________
 
 
