@@ -101,8 +101,6 @@ Summary of Findings
 •	The Laboratory Technician job role has the highest number of employee attrition compared to other roles.
 ________________________________________
 
-
-
 Suggestions
 •	Conduct surveys or interviews to understand the specific issues leading to attrition within the Research & Development department. For instance, identify if it's related to workload, leadership, growth opportunities, or other factors causing dissatisfaction.
 •	Develop strategies specifically for Laboratory Technicians such as career development paths, skills training, or mentorship programs tailored to address the unique needs and career aspirations of Laboratory Technicians.
