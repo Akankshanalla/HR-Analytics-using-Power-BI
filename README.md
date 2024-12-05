@@ -114,4 +114,5 @@ This HR Analytics Dashboard serves as a critical tool for HR managers, enabling 
 1.	Identify patterns of employee attrition by department, role, and demographics.
 2.	Understand the impact of factors like job satisfaction, income, and business travel on retention.
 3.	Develop data-driven strategies to improve employee engagement, retention, and workforce management.
+ 
 By leveraging the insights provided, HR teams can address key challenges, optimize employee satisfaction, and strengthen organizational performance.
