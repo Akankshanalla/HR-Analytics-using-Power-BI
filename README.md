@@ -1,6 +1,5 @@
 # HR-Analytics-using-Power-BI
-HR Analytics Dashboard Documentation
-________________________________________
+ 
 Project Title:
 HR Analytics Dashboard Using Power BI
 ________________________________________
