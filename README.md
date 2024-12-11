@@ -1,23 +1,23 @@
 # HR-Analytics-using-Power-BI
  
-Project Title:
+### Project Title:
 HR Analytics Dashboard Using Power BI
 ________________________________________
 About the Project:
 This HR Analytics Dashboard is designed to provide comprehensive insights into employee attrition patterns within an organization. By leveraging Power BI for data visualization, it enables HR managers and decision-makers to analyse key factors influencing employee turnover, including demographic trends, job satisfaction, and business travel patterns. The dashboard uses an HR dataset containing attributes such as employee demographics, job roles, marital status, years of service, and education levels.
 The primary goal is to offer actionable insights to optimize workforce management and reduce attrition.
 ________________________________________
-Technologies Used:
+### Technologies Used:
 1.	Excel: Used for initial data cleaning and preparation.
 2.	Power BI: Used to create interactive visualizations and dashboards.
 ________________________________________
-Steps Overview:
+### Steps Overview:
 1.	Data Collection: The dataset includes multiple employee-related attributes, such as age, gender, education, monthly income, job satisfaction, and attrition rates.
 2.	Data Understanding: The data was analysed to identify key metrics for visual representation.
 3.	Data Transformation: Columns like age were transformed into grouped categories for easier analysis.
 4.	Data Visualization: Power BI was used to create an interactive dashboard that includes charts, graphs, and key performance indicators (KPIs).
 ________________________________________
-Dashboard Overview:
+### Dashboard Overview:
 The dashboard is divided into two primary pages, each focusing on different aspects of employee data.
  
 ![Screenshot 2024-12-05 195505](https://github.com/user-attachments/assets/c8cd942d-eb3e-4a8c-96a3-e34aa1c02f2e)
@@ -27,7 +27,7 @@ The dashboard is divided into two primary pages, each focusing on different aspe
 ________________________________________
 
 
-Page 1 - General Overview and Demographics:
+#### Page 1 - General Overview and Demographics:
 Key Performance Indicators (KPIs):
 1.	Total Employees: Displays the total workforce count, i.e., 1,470 employees.
 2.	Active Employees: Represents the current number of employees (1,233).
@@ -54,7 +54,7 @@ ________________________________________
 
 
 
-Page 2 - Job Roles, Business Travel, and Job Satisfaction:
+#### Page 2 - Job Roles, Business Travel, and Job Satisfaction:
 Visualizations and Insights:
 1.	Average Monthly Income by Job Role:
 o	A stacked area chart compares income levels across job roles.
@@ -73,7 +73,7 @@ o	An area chart shows trends in attrition over time.
 o	Attrition peaks during the first year (59 employees leave), indicating challenges in early retention.
 o	After the first year, attrition drops significantly, with a gradual decline over time.
 ________________________________________
-Key Insights:
+### Key Insights:
 1.	Demographics and Attrition:
 o	Younger employees (<25 years) have a significantly higher attrition rate, especially females.
 o	Single employees are more likely to leave the organization compared to married or divorced employees.
@@ -90,7 +90,7 @@ o	Frequent travel is linked to moderate attrition rates, indicating a need for b
 o	High attrition within the first year highlights onboarding or integration issues.
 o	Improved support for new hires may reduce early turnover.
 ________________________________________
-Summary of Findings:
+### Summary of Findings:
 1.	By leveraging the insights provided, HR teams can address key challenges, optimize employee satisfaction, and strengthen organizational performance.
 2.	Out of the total 1470 employees, there was an attrition rate of 16.12%, equating to 237 employees who left the company.
 3.	The Research & Development department has the highest attrition rate for 56.12% (133 employees) of the total number of employees.
@@ -102,7 +102,7 @@ Summary of Findings:
 9.	The Laboratory Technician job role has the highest number of employee attrition compared to other roles.
 ________________________________________
 
-Suggestions:
+### Suggestions:
 1.	Conduct surveys or interviews to understand the specific issues leading to attrition within the Research & Development department. For instance, identify if it's related to workload, leadership, growth opportunities, or other factors causing dissatisfaction.
 2.	Develop strategies specifically for Laboratory Technicians such as career development paths, skills training, or mentorship programs tailored to address the unique needs and career aspirations of Laboratory Technicians.
 3.	For reduced attrition among employees aged 25-34 or singles, company could provide options like flexible work, career development programs, and initiatives promoting work-life balance.
@@ -110,7 +110,7 @@ Suggestions:
 
 ________________________________________
 
-Conclusion:
+### Conclusion:
 This HR Analytics Dashboard serves as a critical tool for HR managers, enabling them to:
 1.	Identify patterns of employee attrition by department, role, and demographics.
 2.	Understand the impact of factors like job satisfaction, income, and business travel on retention.
